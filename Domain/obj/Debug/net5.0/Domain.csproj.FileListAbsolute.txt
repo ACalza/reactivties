@@ -1,0 +1,12 @@
+/Users/albertcalzaretto/Developer/reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/albertcalzaretto/Developer/reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/albertcalzaretto/Developer/reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/albertcalzaretto/Developer/reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/albertcalzaretto/Developer/reactivities/Domain/obj/Debug/net5.0/Domain.pdb

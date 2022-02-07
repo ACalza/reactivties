@@ -1,0 +1,16 @@
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Application.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Application.pdb
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Domain.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Persistence.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/albertcalzaretto/Developer/reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/albertcalzaretto/Developer/reactivities/Application/obj/Debug/net5.0/Application.pdb
